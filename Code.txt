@@ -1,0 +1,43 @@
+DROP TABLE Ratings;
+
+CREATE TABLE Users
+(Name VARCHAR(50),
+Gender VARCHAR(1),
+Age INTEGER,
+City VARCHAR(50),
+PRIMARY KEY(Name));
+
+CREATE TABLE MixedDrinks
+(Name VARCHAR(50),
+PRIMARY KEY(Name));
+
+CREATE TABLE Ingredients
+(Name VARCHAR(50),
+Alcohol_Percentage INTEGER,
+Calories_Per_Oz INTEGER,
+PRIMARY KEY(Name));
+
+CREATE TABLE Stores
+(Name VARCHAR(50),
+City VARCHAR(50),
+PRIMARY KEY(Name));
+
+CREATE TABLE Sells
+(Store_Name VARCHAR(50),
+Drink_Name VARCHAR(50),
+FOREIGN KEY(Store_Name) REFERENCES Stores(Name),
+FOREIGN KEY(Drink_Name) REFERENCES MixedDrinks(Name));
+
+CREATE TABLE Contains
+(Drink_Name VARCHAR(50),
+Ingredient_Name VARCHAR(50),
+Amount INTEGER,
+FOREIGN KEY(Drink_Name) REFERENCES MixedDrinks(Name),
+FOREIGN KEY(Ingredient_Name) References Ingredients(Name));
+
+CREATE TABLE Ratings
+(Name VARCHAR(50),
+Drink_Name VARCHAR(50),
+Rating INTEGER,
+FOREIGN KEY(Name) REFERENCES Users(Name),
+FOREIGN KEY(Drink_Name) REFERENCES MixedDrinks(Name));

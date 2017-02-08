@@ -1,0 +1,55 @@
+Ingredient.Name|Ingredient.AlcoholPercentage|Ingredient.CaloriesPerOz
+Apricot Brandy|40|72
+Gin|40|68
+Amaretto|40|129
+Anisette|30|50
+Yukon|20|162
+Jack|20|180
+Jack Daniel's Whiskey|20|184
+Tequila|25|91
+Dry Vermouth|25|70
+Orange Bitters|10|169
+Irish cream|0|131
+Orange Juice|0|148
+Lemon Juice|0|132
+Grapefruit Juice|0|144
+Cranberry Juice|0|65
+Ginger Ale|0|58
+Spiced Rum|25|131
+Coca Cola|0|127
+Midori|30|65
+Rum|30|185
+Sour Mix|0|116
+Triple Sec|30|86
+Vodka|40|199
+Peach Schnapps|25|89
+Blue Curacao|40|99
+Champagne|25|61
+Sloe Gin|40|107
+Scotch|30|179
+DeKuyper Sour Apple|35|135
+Apple Juice|0|53
+Bacardi|40|83
+Sprite|0|50
+Rumchata|15|143
+Dry Sherry|20|65
+Lemonade|0|62
+Raspberry Cordial|20|157
+Lime Juice|0|174
+Grenadine|25|198
+Calvados|25|51
+Jamaica Rum|30|120
+Brandy|25|197
+Mountain Dew|0|51
+Dr Pepper|0|111
+Club Soda|0|113
+Crème de Menthe|10|51
+Captain Morgan|30|154
+Coconut Rum|35|156
+Pineapple Juice|0|176
+Everclear|95|91
+Dark Rum|35|120
+Absolut Citron Vodka|40|174
+Chocolate Liqueur|25|163
+Hazelnut Liqueur|40|152
+Apple Brandy|30|174

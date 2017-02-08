@@ -1,0 +1,629 @@
+Drink_Name,Ingredient_Name,Amount
+Blueberry Vanilla Raspberry,Apricot Brandy,3
+Champion's Hack,Gin,7
+Compassionate Rain,Amaretto,10
+Devilish Brandy Margarita,Anisette,9
+Drunken Blend,Yukon,3
+Drunken Gladness,Jack,9
+Fall Musician,Jack Daniel's Whiskey,9
+High Storm,Tequila,8
+Holy Sadness Tea,Dry Vermouth,8
+Infinite Witty Mix,Orange Bitters,1
+Legendary Coconut Peanut,Irish cream,5
+Legendary Ochre Bow,Orange Juice,3
+Lemon Twister,Lemon Juice,10
+Modest Sexual Priest,Grapefruit Juice,4
+Philosopher's Halbierd,Cranberry Juice,10
+Positive Gigolo's Creation,Ginger Ale,10
+Raging Dancer,Spiced Rum,2
+Raspberry Brew,Coca Cola,9
+Vanilla Tart Autumn,Midori,2
+Vengeance Shake,Rum,8
+Apple Smut,Sour Mix,5
+Astounding Magical Passion,Triple Sec,3
+Astounding Whore's Ecstacy,Vodka,1
+Blessed Sweet Jape,Peach Schnapps,6
+Dutchy Cocktail,Blue Curacao,10
+Evil Plum,Champagne,2
+Fatal Ruby Plan,Sloe Gin,6
+Final Desert Outlaw,Scotch,1
+Foul Storm,DeKuyper Sour Apple,6
+Imaginary Thinker,Apple Juice,6
+Infinite Red Herbologist,Bacardi,10
+Island Rocky,Sprite,5
+Marine's Scream,Rumchata,8
+Orange Lantern,Dry Sherry,5
+Plum Blend,Lemonade,9
+Purple Mansion,Raspberry Cordial,10
+Random Thief's Spring,Lime Juice,9
+Sexual Shake,Grenadine,7
+Tart Dutchy,Calvados,7
+Trader's Kingdom,Jamaica Rum,4
+Banana Lemon Shot,Brandy,1
+Bartender's Autumn,Mountain Dew,8
+Coconut Lime Past,Dr Pepper,8
+Devilish Insane Snare,Club Soda,4
+Devilish Murder Order,Crème de Menthe,3
+Elemental Passionate Moonset,Captain Morgan,4
+Final Strength Cocktail,Coconut Rum,5
+Foul Twisted Candle,Pineapple Juice,1
+Godlike Chocolate Moonset,Everclear,4
+Godlike Cut Wonder,Dark Rum,7
+Hazelnut Carmel Blend,Absolut Citron Vodka,7
+Infamous Modest Shot,Chocolate Liqueur,7
+Infinite Coral Trap,Hazelnut Liqueur,1
+Insane Dire Knight,Apple Brandy,7
+Insane Hack Spring,Apricot Brandy,6
+Legendary Tea Shandy,Gin,3
+Nectarine Codex,Amaretto,8
+Positive Bodyguard's Castle,Anisette,8
+Rotten Fall,Yukon,6
+Thin Wand,Jack,1
+Amazing Desert Shandy,Jack Daniel's Whiskey,2
+Angelic Deep Anvil,Tequila,3
+Cocoa Lemon Cocktail,Dry Vermouth,1
+Demonic Fortune-teller's Oblivion,Orange Bitters,8
+Dishonorable Mix,Irish cream,5
+Far Sailor,Orange Juice,1
+Furious Far,Lemon Juice,8
+Furious Tea,Grapefruit Juice,7
+Hazelnut Grape Stab,Cranberry Juice,1
+High Plum Trap,Apricot Brandy,6
+Indefinite King's Whip,Gin,4
+Indefinite Ocean Mercenary,Amaretto,3
+Infinite River Past,Anisette,3
+Magic Bow,Yukon,5
+Mental Northern,Jack,6
+Negative Doomed Dirt,Jack Daniel's Whiskey,1
+Pit Shandy,Tequila,7
+Southern Club,Dry Vermouth,9
+Special Joy,Orange Bitters,10
+Vanilla Bow,Irish cream,8
+Amazing Sapphire Rain,Orange Juice,10
+Amazing Vanilla Walnut,Lemon Juice,2
+Ancient Mead Potion,Grapefruit Juice,6
+Angry Brew,Cranberry Juice,9
+Architect's Book,Lemon Juice,5
+Demonic Ecstatic Brew,Grapefruit Juice,10
+Dirt Element,Cranberry Juice,3
+Hateful Twister,Ginger Ale,2
+Island Shaman,Spiced Rum,10
+Kiwi Halbierd,Coca Cola,10
+Moonrise Flute,Midori,5
+Peanut Hazelnut Cocktail,Rum,8
+Plum Dread,Sour Mix,10
+Prince's Honor,Triple Sec,2
+Random Spring Scribe,Vodka,5
+Redemption Tea,Peach Schnapps,7
+Spinning Law,Blue Curacao,4
+Tasty Dagger,Champagne,3
+Vanilla Tart Sword,Sloe Gin,4
+Angel's Voice,Scotch,1
+Angelic Ochre Rogue,DeKuyper Sour Apple,4
+Blessed Compassionate Thunder,Apple Juice,10
+Blessed Sour Shake,Bacardi,4
+Deep Club,Sprite,6
+Disgusting Squirt,Rumchata,1
+Doomed Martini,Dry Sherry,9
+Exorcist's Autumn,Lemonade,7
+Foul Dreamer's Fear,Raspberry Cordial,8
+Holy Forest Politician,Lime Juice,10
+Holy Thunder Armageddon,Grenadine,7
+Holy Tundra Cordial,Calvados,8
+Infamous Chocolate Greatness,Jamaica Rum,4
+Infamous War Law,Brandy,4
+Island Harlot,Mountain Dew,1
+Legendary Letcherous Blast,Dr Pepper,5
+Low Arctic Abyss,Club Soda,7
+Modest Diamond Armorer,Crème de Menthe,4
+Obvious Insane Scream,Captain Morgan,2
+Peach Elixir,Coconut Rum,2
+Peppermint Insanity,Pineapple Juice,4
+Absolute Cultivated Grave robber,Everclear,1
+Amazing Annihilation Creation,Dark Rum,5
+Amazing Far Queen,Absolut Citron Vodka,4
+Amazing Jade Strength,Chocolate Liqueur,5
+Ancient Herbologist's Lunacy,Hazelnut Liqueur,2
+Berry Shandy,Apple Brandy,6
+Blessed Fat Rogue,Sloe Gin,3
+Coconut Chocolate Slap,Scotch,5
+Deathly Cocoa,DeKuyper Sour Apple,3
+Godlike Bodyguard's Moonrise,Apple Juice,7
+Grape Peanut Autumn,Bacardi,9
+Holy Garnet Pit,Sprite,7
+Insane Cognac Twister,Rumchata,6
+Jade Rain,Dry Sherry,5
+Letcherous Altar,Lemonade,6
+Low Rotten War,Raspberry Cordial,3
+Mint Grape Destiny,Lime Juice,8
+Raspberry Flute,Grenadine,1
+Thin Assassin,Calvados,10
+Wonderful War Greatness,Jamaica Rum,6
+Absolute Milk Tea,Brandy,6
+Ancient Bloody Fortune-teller,Mountain Dew,9
+Blessed Decadent Tea,Dr Pepper,2
+Fatal Lemon Gate,Club Soda,1
+Fatal Liquour Cocoa,Crème de Menthe,5
+Final Chocolate Trousers,Captain Morgan,1
+Foul Codex,Coconut Rum,4
+Godlike Joy Martini,Pineapple Juice,4
+Hazelnut Imagining,Everclear,8
+Insane Beastmaster,Dark Rum,4
+Island Smuggler,Absolut Citron Vodka,1
+Kingdom Punch,Chocolate Liqueur,5
+Liquour Float,Hazelnut Liqueur,7
+Nectarine Brew,Apple Brandy,2
+Peppermint Apple Margarita,Coca Cola,10
+Positive Carmel Smut,Midori,7
+Sour Lightning,Rum,6
+Thief's Chaos,Sour Mix,4
+Ultimate Crazy Margarita,Triple Sec,3
+Wonderful Twisting Ecstacy,Vodka,8
+Absolute Mystic Lantern,Peach Schnapps,9
+Beer Tea,Blue Curacao,2
+Broad Berry,Champagne,2
+Cartographer's Sunset,Sloe Gin,10
+Devilish Lemon Voice,Scotch,4
+Final Clever Shake,DeKuyper Sour Apple,1
+Final Courageous Orange,Apple Juice,5
+Furious Martini,Bacardi,7
+Harlot's Planet,Sprite,7
+Honorable Spring,Rumchata,3
+Indefinite Sailor's Blast,Dry Sherry,7
+Infamous Barbarian's Light,Lemonade,1
+Infinite Sunrise Creation,Raspberry Cordial,4
+Lime Mint Elixir,Lime Juice,8
+Low Peppermint Voice,Grenadine,8
+Low Raging Decadent,Calvados,9
+Obvious Deep Conjurer,Jamaica Rum,2
+Spring Bodyguard,Brandy,10
+Storm Brew,Mountain Dew,6
+Tea Peanut Cocoa,Dr Pepper,9
+Absolute Alabaster Nectarine,Club Soda,3
+Almond Sword,Crème de Menthe,5
+Blessed Arctic Slice,Captain Morgan,3
+Buster Lightning,Coconut Rum,10
+Elemental Mystic Grave robber,Pineapple Juice,8
+Foul Sour Breath,Everclear,1
+Godlike Draught,Dark Rum,7
+Infamous Modest Seer,Absolut Citron Vodka,7
+Lime Peach Breaker,Chocolate Liqueur,2
+Melon Strength,Hazelnut Liqueur,5
+Peach Plum Blend,Apple Brandy,1
+Positive Brown Plot,Club Soda,7
+Positive Lunacy Shandy,Crème de Menthe,10
+Random Bandit's Creation,Captain Morgan,2
+Random Liquer Margarita,Coconut Rum,7
+Regal Smuggler,Pineapple Juice,3
+Slice Creation,Everclear,3
+Vanilla Armageddon,Dark Rum,1
+Walnut Tea Coral,Absolut Citron Vodka,2
+Winter Cocktail,Chocolate Liqueur,4
+Blueberry Vanilla Raspberry,Hazelnut Liqueur,9
+Champion's Hack,Club Soda,7
+Compassionate Rain,Crème de Menthe,10
+Devilish Brandy Margarita,Captain Morgan,5
+Drunken Blend,Coconut Rum,6
+Drunken Gladness,Pineapple Juice,7
+Fall Musician,Everclear,4
+High Storm,Dark Rum,7
+Holy Sadness Tea,Absolut Citron Vodka,8
+Infinite Witty Mix,Chocolate Liqueur,8
+Legendary Coconut Peanut,Hazelnut Liqueur,10
+Legendary Ochre Bow,Club Soda,10
+Lemon Twister,Crème de Menthe,2
+Modest Sexual Priest,Captain Morgan,6
+Philosopher's Halbierd,Coconut Rum,5
+Positive Gigolo's Creation,Pineapple Juice,10
+Raging Dancer,Everclear,10
+Raspberry Brew,Dark Rum,10
+Vanilla Tart Autumn,Absolut Citron Vodka,6
+Vengeance Shake,Chocolate Liqueur,4
+Apple Smut,Hazelnut Liqueur,4
+Astounding Magical Passion,Sloe Gin,10
+Astounding Whore's Ecstacy,Scotch,1
+Blessed Sweet Jape,DeKuyper Sour Apple,5
+Dutchy Cocktail,Apple Juice,5
+Evil Plum,Bacardi,7
+Fatal Ruby Plan,Sprite,7
+Final Desert Outlaw,Rumchata,8
+Foul Storm,Dry Sherry,4
+Imaginary Thinker,Lemonade,5
+Infinite Red Herbologist,Raspberry Cordial,2
+Island Rocky,Lime Juice,6
+Marine's Scream,Grenadine,3
+Orange Lantern,Calvados,1
+Plum Blend,Jamaica Rum,8
+Purple Mansion,Brandy,9
+Random Thief's Spring,Mountain Dew,8
+Sexual Shake,Dr Pepper,7
+Tart Dutchy,Club Soda,1
+Trader's Kingdom,Crème de Menthe,3
+Banana Lemon Shot,Captain Morgan,8
+Bartender's Autumn,Coconut Rum,10
+Coconut Lime Past,Pineapple Juice,2
+Devilish Insane Snare,Everclear,8
+Devilish Murder Order,Dark Rum,4
+Elemental Passionate Moonset,Absolut Citron Vodka,9
+Final Strength Cocktail,Chocolate Liqueur,10
+Foul Twisted Candle,Hazelnut Liqueur,4
+Godlike Chocolate Moonset,Apple Brandy,9
+Godlike Cut Wonder,Gin,3
+Hazelnut Carmel Blend,Amaretto,5
+Infamous Modest Shot,Anisette,9
+Infinite Coral Trap,Yukon,6
+Insane Dire Knight,Jack,10
+Insane Hack Spring,Jack Daniel's Whiskey,1
+Legendary Tea Shandy,Tequila,3
+Nectarine Codex,Dry Vermouth,2
+Positive Bodyguard's Castle,Orange Bitters,5
+Rotten Fall,Irish cream,9
+Thin Wand,Orange Juice,4
+Amazing Desert Shandy,Lemon Juice,6
+Angelic Deep Anvil,Grapefruit Juice,7
+Cocoa Lemon Cocktail,Cranberry Juice,5
+Demonic Fortune-teller's Oblivion,Ginger Ale,1
+Dishonorable Mix,Spiced Rum,4
+Far Sailor,Coca Cola,7
+Furious Far,Midori,6
+Furious Tea,Rum,1
+Hazelnut Grape Stab,Sour Mix,7
+High Plum Trap,Triple Sec,9
+Indefinite King's Whip,Vodka,10
+Indefinite Ocean Mercenary,Peach Schnapps,3
+Infinite River Past,Blue Curacao,2
+Magic Bow,Champagne,7
+Mental Northern,Sloe Gin,1
+Negative Doomed Dirt,Scotch,10
+Pit Shandy,DeKuyper Sour Apple,2
+Southern Club,Apple Juice,4
+Special Joy,Bacardi,8
+Vanilla Bow,Sprite,10
+Amazing Sapphire Rain,Rumchata,9
+Amazing Vanilla Walnut,Dry Sherry,6
+Ancient Mead Potion,Lemonade,2
+Angry Brew,Raspberry Cordial,3
+Architect's Book,Lime Juice,6
+Demonic Ecstatic Brew,Grenadine,8
+Dirt Element,Calvados,6
+Hateful Twister,Jamaica Rum,9
+Island Shaman,Brandy,9
+Kiwi Halbierd,Mountain Dew,4
+Moonrise Flute,Dr Pepper,9
+Peanut Hazelnut Cocktail,Club Soda,3
+Plum Dread,Crème de Menthe,5
+Prince's Honor,Captain Morgan,4
+Random Spring Scribe,Coconut Rum,3
+Redemption Tea,Pineapple Juice,1
+Spinning Law,Everclear,8
+Tasty Dagger,Dark Rum,2
+Vanilla Tart Sword,Absolut Citron Vodka,8
+Angel's Voice,Chocolate Liqueur,8
+Angelic Ochre Rogue,Hazelnut Liqueur,2
+Blessed Compassionate Thunder,Apple Brandy,8
+Blessed Sour Shake,Club Soda,2
+Deep Club,Crème de Menthe,2
+Disgusting Squirt,Captain Morgan,1
+Doomed Martini,Coconut Rum,7
+Exorcist's Autumn,Pineapple Juice,2
+Foul Dreamer's Fear,Everclear,4
+Holy Forest Politician,Dark Rum,3
+Holy Thunder Armageddon,Absolut Citron Vodka,8
+Holy Tundra Cordial,Chocolate Liqueur,5
+Infamous Chocolate Greatness,Hazelnut Liqueur,5
+Infamous War Law,Gin,1
+Island Harlot,Amaretto,9
+Legendary Letcherous Blast,Anisette,7
+Low Arctic Abyss,Yukon,9
+Modest Diamond Armorer,Jack,1
+Obvious Insane Scream,Jack Daniel's Whiskey,4
+Peach Elixir,Tequila,2
+Peppermint Insanity,Dry Vermouth,1
+Absolute Cultivated Grave robber,Orange Bitters,9
+Amazing Annihilation Creation,Irish cream,5
+Amazing Far Queen,Orange Juice,9
+Amazing Jade Strength,Lemon Juice,1
+Ancient Herbologist's Lunacy,Grapefruit Juice,3
+Berry Shandy,Cranberry Juice,10
+Blessed Fat Rogue,Ginger Ale,7
+Coconut Chocolate Slap,Spiced Rum,6
+Deathly Cocoa,Coca Cola,6
+Godlike Bodyguard's Moonrise,Midori,2
+Grape Peanut Autumn,Rum,5
+Holy Garnet Pit,Sour Mix,2
+Insane Cognac Twister,Triple Sec,10
+Jade Rain,Vodka,5
+Letcherous Altar,Peach Schnapps,10
+Low Rotten War,Blue Curacao,2
+Mint Grape Destiny,Champagne,3
+Raspberry Flute,Sloe Gin,7
+Thin Assassin,Scotch,10
+Wonderful War Greatness,DeKuyper Sour Apple,3
+Absolute Milk Tea,Apple Juice,7
+Ancient Bloody Fortune-teller,Bacardi,9
+Blessed Decadent Tea,Sprite,3
+Fatal Lemon Gate,Rumchata,2
+Fatal Liquour Cocoa,Dry Sherry,1
+Final Chocolate Trousers,Lemonade,9
+Foul Codex,Raspberry Cordial,2
+Godlike Joy Martini,Lime Juice,7
+Hazelnut Imagining,Grenadine,2
+Insane Beastmaster,Calvados,9
+Island Smuggler,Jamaica Rum,6
+Kingdom Punch,Brandy,2
+Liquour Float,Mountain Dew,2
+Nectarine Brew,Dr Pepper,4
+Peppermint Apple Margarita,Club Soda,1
+Positive Carmel Smut,Crème de Menthe,5
+Sour Lightning,Captain Morgan,7
+Thief's Chaos,Coconut Rum,8
+Ultimate Crazy Margarita,Pineapple Juice,1
+Wonderful Twisting Ecstacy,Everclear,4
+Absolute Mystic Lantern,Dark Rum,5
+Beer Tea,Absolut Citron Vodka,4
+Broad Berry,Chocolate Liqueur,7
+Cartographer's Sunset,Hazelnut Liqueur,1
+Devilish Lemon Voice,Apple Brandy,5
+Final Clever Shake,Cranberry Juice,4
+Final Courageous Orange,Ginger Ale,8
+Furious Martini,Spiced Rum,8
+Harlot's Planet,Coca Cola,1
+Honorable Spring,Midori,1
+Indefinite Sailor's Blast,Rum,2
+Infamous Barbarian's Light,Sour Mix,4
+Infinite Sunrise Creation,Triple Sec,3
+Lime Mint Elixir,Vodka,10
+Low Peppermint Voice,Peach Schnapps,8
+Low Raging Decadent,Blue Curacao,5
+Obvious Deep Conjurer,Champagne,8
+Spring Bodyguard,Sloe Gin,4
+Storm Brew,Scotch,10
+Tea Peanut Cocoa,Apricot Brandy,3
+Absolute Alabaster Nectarine,Gin,4
+Almond Sword,Amaretto,10
+Blessed Arctic Slice,Anisette,2
+Buster Lightning,Yukon,8
+Elemental Mystic Grave robber,Apricot Brandy,3
+Foul Sour Breath,Gin,5
+Godlike Draught,Amaretto,8
+Infamous Modest Seer,Anisette,5
+Lime Peach Breaker,Yukon,6
+Melon Strength,Jack,10
+Peach Plum Blend,Jack Daniel's Whiskey,1
+Positive Brown Plot,Tequila,4
+Positive Lunacy Shandy,Dry Vermouth,6
+Random Bandit's Creation,Orange Bitters,7
+Random Liquer Margarita,Irish cream,9
+Regal Smuggler,Orange Juice,6
+Slice Creation,Lemon Juice,6
+Vanilla Armageddon,Grapefruit Juice,10
+Walnut Tea Coral,Cranberry Juice,4
+Winter Cocktail,Ginger Ale,4
+Blueberry Vanilla Raspberry,Spiced Rum,2
+Champion's Hack,Coca Cola,8
+Compassionate Rain,Midori,9
+Devilish Brandy Margarita,Rum,2
+Drunken Blend,Sour Mix,3
+Drunken Gladness,Triple Sec,7
+Fall Musician,Vodka,3
+High Storm,Peach Schnapps,2
+Holy Sadness Tea,Blue Curacao,3
+Infinite Witty Mix,Champagne,10
+Legendary Coconut Peanut,Sloe Gin,2
+Legendary Ochre Bow,Scotch,2
+Lemon Twister,DeKuyper Sour Apple,5
+Modest Sexual Priest,Apple Juice,2
+Philosopher's Halbierd,Bacardi,6
+Positive Gigolo's Creation,Sprite,2
+Raging Dancer,Rumchata,5
+Raspberry Brew,Dry Sherry,2
+Vanilla Tart Autumn,Lemonade,5
+Vengeance Shake,Raspberry Cordial,3
+Apple Smut,Lime Juice,1
+Astounding Magical Passion,Grenadine,5
+Astounding Whore's Ecstacy,Calvados,5
+Blessed Sweet Jape,Jamaica Rum,2
+Dutchy Cocktail,Brandy,3
+Evil Plum,Mountain Dew,7
+Fatal Ruby Plan,Dr Pepper,2
+Final Desert Outlaw,Club Soda,10
+Foul Storm,Crème de Menthe,8
+Imaginary Thinker,Captain Morgan,5
+Infinite Red Herbologist,Coconut Rum,5
+Island Rocky,Pineapple Juice,2
+Marine's Scream,Everclear,7
+Orange Lantern,Dark Rum,6
+Plum Blend,Absolut Citron Vodka,8
+Purple Mansion,Chocolate Liqueur,6
+Random Thief's Spring,Hazelnut Liqueur,10
+Sexual Shake,Apple Brandy,3
+Tart Dutchy,Cranberry Juice,10
+Trader's Kingdom,Ginger Ale,2
+Banana Lemon Shot,Spiced Rum,9
+Bartender's Autumn,Coca Cola,5
+Coconut Lime Past,Midori,1
+Devilish Insane Snare,Rum,8
+Devilish Murder Order,Sour Mix,8
+Elemental Passionate Moonset,Triple Sec,3
+Final Strength Cocktail,Vodka,10
+Foul Twisted Candle,Peach Schnapps,4
+Godlike Chocolate Moonset,Blue Curacao,8
+Godlike Cut Wonder,Champagne,6
+Hazelnut Carmel Blend,Sloe Gin,8
+Infamous Modest Shot,Scotch,4
+Infinite Coral Trap,Apricot Brandy,4
+Insane Dire Knight,Gin,9
+Insane Hack Spring,Amaretto,2
+Legendary Tea Shandy,Anisette,2
+Nectarine Codex,Yukon,5
+Positive Bodyguard's Castle,Jack,1
+Rotten Fall,Jack Daniel's Whiskey,2
+Thin Wand,Tequila,10
+Amazing Desert Shandy,Dry Vermouth,1
+Angelic Deep Anvil,Orange Bitters,10
+Cocoa Lemon Cocktail,Irish cream,9
+Demonic Fortune-teller's Oblivion,Orange Juice,4
+Dishonorable Mix,Lemon Juice,2
+Far Sailor,Grapefruit Juice,4
+Furious Far,Cranberry Juice,7
+Furious Tea,Ginger Ale,2
+Hazelnut Grape Stab,Spiced Rum,9
+High Plum Trap,Coca Cola,4
+Indefinite King's Whip,Midori,1
+Indefinite Ocean Mercenary,Rum,1
+Infinite River Past,Sour Mix,5
+Magic Bow,Triple Sec,3
+Mental Northern,Vodka,9
+Negative Doomed Dirt,Peach Schnapps,10
+Pit Shandy,Blue Curacao,2
+Southern Club,Champagne,7
+Special Joy,Sloe Gin,2
+Vanilla Bow,Scotch,1
+Amazing Sapphire Rain,DeKuyper Sour Apple,7
+Amazing Vanilla Walnut,Apple Juice,5
+Ancient Mead Potion,Bacardi,2
+Angry Brew,Sprite,2
+Architect's Book,Rumchata,9
+Demonic Ecstatic Brew,Dry Sherry,3
+Dirt Element,Lemonade,4
+Hateful Twister,Raspberry Cordial,10
+Island Shaman,Lime Juice,9
+Kiwi Halbierd,Grenadine,4
+Moonrise Flute,Calvados,1
+Peanut Hazelnut Cocktail,Jamaica Rum,5
+Plum Dread,Brandy,10
+Prince's Honor,Mountain Dew,1
+Random Spring Scribe,Dr Pepper,9
+Redemption Tea,Club Soda,2
+Spinning Law,Crème de Menthe,7
+Tasty Dagger,Captain Morgan,10
+Vanilla Tart Sword,Coconut Rum,10
+Angel's Voice,Pineapple Juice,4
+Angelic Ochre Rogue,Everclear,1
+Blessed Compassionate Thunder,Dark Rum,10
+Blessed Sour Shake,Absolut Citron Vodka,7
+Deep Club,Chocolate Liqueur,8
+Disgusting Squirt,Hazelnut Liqueur,6
+Doomed Martini,Apple Brandy,1
+Exorcist's Autumn,Yukon,4
+Foul Dreamer's Fear,Jack,6
+Holy Forest Politician,Jack Daniel's Whiskey,6
+Holy Thunder Armageddon,Tequila,4
+Holy Tundra Cordial,Dry Vermouth,10
+Infamous Chocolate Greatness,Orange Bitters,2
+Infamous War Law,Irish cream,7
+Island Harlot,Orange Juice,5
+Legendary Letcherous Blast,Lemon Juice,5
+Low Arctic Abyss,Gin,8
+Modest Diamond Armorer,Amaretto,8
+Obvious Insane Scream,Anisette,6
+Peach Elixir,Yukon,8
+Peppermint Insanity,Jack,10
+Absolute Cultivated Grave robber,Jack Daniel's Whiskey,5
+Amazing Annihilation Creation,Tequila,6
+Amazing Far Queen,Dry Vermouth,9
+Amazing Jade Strength,Orange Bitters,1
+Ancient Herbologist's Lunacy,Irish cream,5
+Berry Shandy,Orange Juice,2
+Blessed Fat Rogue,Lemon Juice,1
+Coconut Chocolate Slap,Grapefruit Juice,10
+Deathly Cocoa,Cranberry Juice,4
+Godlike Bodyguard's Moonrise,Ginger Ale,4
+Grape Peanut Autumn,Spiced Rum,10
+Holy Garnet Pit,Coca Cola,10
+Insane Cognac Twister,Midori,4
+Jade Rain,Rum,6
+Letcherous Altar,Sour Mix,4
+Low Rotten War,Triple Sec,2
+Mint Grape Destiny,Vodka,8
+Raspberry Flute,Peach Schnapps,8
+Thin Assassin,Blue Curacao,9
+Wonderful War Greatness,Champagne,10
+Absolute Milk Tea,Sloe Gin,3
+Ancient Bloody Fortune-teller,Scotch,5
+Blessed Decadent Tea,DeKuyper Sour Apple,8
+Fatal Lemon Gate,Apple Juice,10
+Fatal Liquour Cocoa,Bacardi,10
+Final Chocolate Trousers,Sprite,7
+Foul Codex,Rumchata,5
+Godlike Joy Martini,Dry Sherry,3
+Hazelnut Imagining,Lemonade,8
+Insane Beastmaster,Raspberry Cordial,9
+Island Smuggler,Lime Juice,3
+Kingdom Punch,Grenadine,6
+Liquour Float,Calvados,5
+Nectarine Brew,Jamaica Rum,5
+Peppermint Apple Margarita,Brandy,8
+Positive Carmel Smut,Mountain Dew,9
+Sour Lightning,Dr Pepper,9
+Thief's Chaos,Club Soda,8
+Ultimate Crazy Margarita,Crème de Menthe,10
+Wonderful Twisting Ecstacy,Captain Morgan,4
+Absolute Mystic Lantern,Coconut Rum,9
+Beer Tea,Pineapple Juice,3
+Broad Berry,Everclear,5
+Cartographer's Sunset,Dark Rum,3
+Devilish Lemon Voice,Absolut Citron Vodka,6
+Final Clever Shake,Chocolate Liqueur,1
+Final Courageous Orange,Hazelnut Liqueur,7
+Furious Martini,Apple Brandy,7
+Harlot's Planet,Sprite,7
+Honorable Spring,Rumchata,4
+Indefinite Sailor's Blast,Dry Sherry,9
+Infamous Barbarian's Light,Lemonade,2
+Infinite Sunrise Creation,Raspberry Cordial,4
+Lime Mint Elixir,Lime Juice,6
+Low Peppermint Voice,Grenadine,2
+Low Raging Decadent,Calvados,6
+Obvious Deep Conjurer,Jamaica Rum,2
+Spring Bodyguard,Brandy,10
+Storm Brew,Mountain Dew,10
+Tea Peanut Cocoa,Dr Pepper,9
+Absolute Alabaster Nectarine,Club Soda,7
+Almond Sword,Crème de Menthe,5
+Blessed Arctic Slice,Captain Morgan,3
+Buster Lightning,Captain More,6
+Elemental Mystic Grave robber,Apricot Brandy,3
+Foul Sour Breath,Gin,10
+Godlike Draught,Amaretto,5
+Infamous Modest Seer,Anisette,1
+Lime Peach Breaker,Yukon,5
+Melon Strength,Jack,4
+Peach Plum Blend,Jack Daniel's Whiskey,10
+Positive Brown Plot,Tequila,1
+Positive Lunacy Shandy,Dry Vermouth,8
+Random Bandit's Creation,Orange Bitters,10
+Random Liquer Margarita,Irish cream,9
+Regal Smuggler,Orange Juice,3
+Slice Creation,Lemon Juice,8
+Vanilla Armageddon,Grapefruit Juice,8
+Walnut Tea Coral,Cranberry Juice,7
+Winter Cocktail,Ginger Ale,6
+Raspberry Martini,Raspberry Cordial,1
+Raspberry Martini,Sprite,2
+Raspberry Martini,Vodka,2
+Apple Martini,Apple Brandy,1
+Apple Martini,Apple Juice,1
+Apple Martini,Dekuyper Sour Apple,1
+Apple Martini,Sprite,1
+French Martini,Sprite,1
+French Martini,Amaretto,1
+French Martini,Anisette,1
+Mint Martini,Dry Sherry,1
+Mint Martini,Calvados,1
+Dirty Martini,Everclear,3
+Dirty Martini,Sprite,1
+Chocolate Martini,Club Soda,2
+Chocolate Martini,Spiced Rum,1
+Bacardi Martini,Bacardi,1
+Bacardi Martini,Sprite,1
+Bacardi Martini,Sour Mix,1
+Apricot Martini,Apricot Brandy,2
+Apricot Martini,Ginger Ale,1
+Blueberry Martini,Blue Curacao,2
+Blueberry Martini,Club Soda,1
+Blueberry Martini,Lime Juice,1
+Cosmopolitan,Triple Sec,2
+Cosmopolitan,Absolut Citron Vodka,1
+Cosmopolitan,Lime Juice,1
+Cosmopolitan,Cranberry Juice,1
